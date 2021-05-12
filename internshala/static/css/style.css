@@ -1,0 +1,19 @@
+/*noinspection CssUnknownTarget*/
+body
+{
+    margin: 2px;
+    padding: 2px;
+    background-image: url("../images/download.jpg");
+}
+
+
+#c1
+{
+    transform: translate(100%,30%);
+    background: aliceblue;
+}
+h1
+{
+    text-align: center;
+    font-family: "Monotype Corsiva";
+}
